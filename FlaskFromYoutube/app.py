@@ -10,4 +10,4 @@ def welcome():
 def home():
     return 'Home page in Flask'
 
-from controller import product_controller, user_controller
+from controller import *
